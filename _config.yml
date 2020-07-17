@@ -17,7 +17,9 @@ baseurl: ""
 title: Tianshu Lyu 吕天舒
 
 # Short description of your site
-description: Peking University
+description: Researcher @ Baidu Search
+
+bigimg: ""/img/norway.jpg"
 
 # --- Navigation bar options --- #
 
@@ -26,12 +28,10 @@ navbar-links:
   About Me: "aboutme"
   CV: "cv"
   Publications: "publications"
-  Talks: "talks"
-  Contact: "contact"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/avatar-icon.png"
+avatar: "/img/avatar.jpg"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
@@ -62,7 +62,7 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
 #  rss: true
-#  email: "someone@example.com"
+   email: "lyutianshu@baidu.com"
 #  facebook: daattali
 #  github: daattali
 #  twitter: daattali

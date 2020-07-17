@@ -6,7 +6,7 @@ subtitle: Researcher @ Baidu Inc.
 
 - I'm now a researcher in search science team at Baidu Inc.. My research interests lie in the general area of machine learning and data mining, particularly in graph data mining.
 
-- I obtained Ph.D. degree from Department of EECS, Peking University in 2020. My supervisor is Prof. Yan Zhang.
+- I obtained Ph.D. degree from Department of [EECS, Peking University](https://eecs.pku.edu.cn/) in 2020. My supervisor is [Prof. Yan Zhang](http://www.cis.pku.edu.cn/jzyg/szdw/zy.htm).
 
 ### my history
 
