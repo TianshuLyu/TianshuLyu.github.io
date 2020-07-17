@@ -12,10 +12,12 @@ This is a collection of some research projects I've worked on.
 
 ## Network Embedding
 
-- [PAKDD'20] Node Conductance: A Scalable Node Centrality Measure Based on Deepwalk.
+- [PAKDD'20] [Node Conductance: A Scalable Node Centrality Measure Based on Deepwalk.](/_data/NC.pdf)
+
 **Tianshu Lyu**, Fei Sun, Yan Zhang
 
-- [RecSys'19] Compositional Network Embedding for Link Prediction.
+- [RecSys'19] [Compositional Network Embedding for Link Prediction.](/_data/CNE.pdf)
+
 **Tianshu Lyu**, Fei Sun, Peng Jiang, Wenwu Ou, Yan Zhang
 
 - [AAAI'18] COSINE: Community-Preserving Social Network Embedding from Information Diffusion Cascades.
