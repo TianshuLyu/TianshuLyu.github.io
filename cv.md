@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Publications
+title: CV
 ---
 
 ## Profiles
-* [CV](resources/chn_CV.pdf)
+* [CV](resources/CV.pdf)
 * [Google Scholar](https://scholar.google.com/citations?user=XZXIQlgAAAAJ&hl=zh-CN)

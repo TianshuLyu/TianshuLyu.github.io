@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About me
+title: About Me
 subtitle: Researcher @ Baidu Inc.
 ---
 
@@ -8,11 +8,11 @@ subtitle: Researcher @ Baidu Inc.
 
 - I obtained Ph.D. degree from Department of [EECS, Peking University](https://eecs.pku.edu.cn/) in 2020. My supervisor is [Prof. Yan Zhang](http://www.cis.pku.edu.cn/jzyg/szdw/zy.htm).
 
-### my history
+### My History
 
 I received the B.E. degree in 2015 at the Department of Computer Science and Engineering in Beijing University of Technology.
 
-In the spring of 2018, I was a research intern in feeds recommendation team at Alibaba Group.
-In the winter of 2018, I was a research intern in recommendation team at Hulu LLC.
-In the summer of 2019, I was a software intern in GPay team at Google.
+In the spring of 2018, I was a research intern in feeds recommendation team at Alibaba Group, mentored by [Dr. Fei Sun](http://ofey.me/).  
+In the winter of 2018, I was a research intern in recommendation team at Hulu LLC, mentored by Dr. Jiarui Yang and Dr. Songpeng Zu.  
+In the summer of 2019, I was a software intern in GPay team at Google, mentored by Wei Dai and Sheng Hu.
 
