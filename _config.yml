@@ -19,8 +19,6 @@ title: Tianshu Lyu 吕天舒
 # Short description of your site
 description: Researcher @ Baidu Search
 
-bigimg: "/img/norway.jpg"
-
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
@@ -63,6 +61,7 @@ author:
 social-network-links:
 #  rss: true
    email: "lyutianshu@baidu.com"
+   weibo: ltsnicole
 #  facebook: daattali
 #  github: daattali
 #  twitter: daattali
@@ -89,7 +88,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "tianshulyu.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
