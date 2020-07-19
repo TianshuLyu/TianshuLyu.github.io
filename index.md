@@ -12,10 +12,25 @@ bigimg:
   - "/img/costarica.JPG" : "San Jose, Costa Rica (2018)"
 ---
 ## News
-- I graduated from Peking University and joined Baidu.
-- I got a cat called *Bubble*.
-- My paper entitled "FOX: Fast Overlapping Community Detection Algorithm in Big Weighted Networks" was accepted by Transactions on Social Computing.
-- My paper entitled "Node Conductance: A Scalable Node Centrality Measure Based on Deepwalk" was accepted by PAKDD 2020.
+<p class="about-text">
+<span class="fa fa-graduation-cap about-icon"></span>
+I graduated from Peking University and joined <strong>Baidu</strong>.
+</p>
+
+<p class="about-text">
+<span class="fa fa-heart about-icon"></span>
+I got a cat called <strong>Bubble</strong>.
+</p>
+
+<p class="about-text">
+<span class="fa fa-paper-plane about-icon"></span>
+My paper entitled "FOX: Fast Overlapping Community Detection Algorithm in Big Weighted Networks" was accepted by Transactions on Social Computing.
+</p>
+
+<p class="about-text">
+<span class="fa fa-paper-plane about-icon"></span>
+My paper entitled "Node Conductance: A Scalable Node Centrality Measure Based on Deepwalk" was accepted by PAKDD 2020.
+
 
 <div style="text-align:center">
 <strong>Quick Links:</strong> &nbsp;&nbsp; 
