@@ -8,7 +8,7 @@ bigimg:
   - "/img/northkorea.JPG" : "Pyongyang, North Korea (2019)"
   - "/img/south-taihang.jpg" : "South Tai-Hang, China (2016)"
   - "/img/ling.JPG" : "Ling Mountain, Beijing, China (2015)"
-  - "/img/bubble.JPG" : "泡泡 (2020)"
+  - "/img/bubble.jpg" : "泡泡 (2020)"
 ---
 ## News
 - I graduated from Peking University and joined Baidu.
@@ -19,5 +19,5 @@ bigimg:
 <div style="text-align:center">
 <strong>Quick Links:</strong> &nbsp;&nbsp; 
 <a href="http://www.cis.pku.edu.cn/info/1084/1273.htm" role="button" class="btn btn-primary">My Supervisor</a> 
-<a href="https://www.baidu.com/">Baidu</a> 
+<a href="https://www.baidu.com/" role="button" class="btn btn-primary">Baidu</a> 
 </div>
