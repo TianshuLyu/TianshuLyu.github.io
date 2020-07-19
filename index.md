@@ -17,20 +17,21 @@ bigimg:
 </i>
 I graduated from Peking University and joined *Baidu*.
 
-<p class="about-text">
+<i class="about-text">
 <span class="fa fa-paw about-icon"></span>
- I got a cat called <strong>Bubble</strong>.
-</p>
+</i>
+I got a cat called *Bubble*.
 
-<p class="about-text">
-<span class="fa fa-paper-plane about-icon"></span>
- My paper entitled "FOX: Fast Overlapping Community Detection Algorithm in Big Weighted Networks" was accepted by Transactions on Social Computing.
-</p>
 
-<p class="about-text">
+<i class="about-text">
 <span class="fa fa-paper-plane about-icon"></span>
- My paper entitled "Node Conductance: A Scalable Node Centrality Measure Based on Deepwalk" was accepted by PAKDD 2020.
-</p>
+</i>
+My paper entitled "FOX: Fast Overlapping Community Detection Algorithm in Big Weighted Networks" was accepted by *Transactions on Social Computing*.
+
+<i class="about-text">
+<span class="fa fa-paper-plane about-icon"></span>
+</i>
+My paper entitled "Node Conductance: A Scalable Node Centrality Measure Based on Deepwalk" was accepted by *PAKDD 2020*.
 
 <div style="text-align:center">
 <strong>Quick Links:</strong> &nbsp;&nbsp; 
