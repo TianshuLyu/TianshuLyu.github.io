@@ -12,6 +12,9 @@ bigimg:
   - "/img/costarica.JPG" : "San Jose, Costa Rica (2018)"
 ---
 ## News
+<i class="fas fa-graduation-cap fa-lg fa-pull-left"></i>
+I graduated from *Peking University* and joined *Baidu*.
+
 <p class="about-text">
 <span class="fa fa-graduation-cap about-icon"></span>
  I graduated from Peking University and joined <strong>Baidu</strong>.
@@ -37,3 +40,9 @@ bigimg:
 <a href="http://www.cis.pku.edu.cn/info/1084/1273.htm" role="button" class="btn btn-primary">My Supervisor</a> 
 <a href="https://www.baidu.com/" role="button" class="btn btn-primary">Baidu</a> 
 </div>
+
+<head> 
+    <script defer src="https://use.fontawesome.com/releases/v5.0.13/js/all.js"></script> 
+    <script defer src="https://use.fontawesome.com/releases/v5.0.13/js/v4-shims.js"></script> 
+</head> 
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css">
