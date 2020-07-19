@@ -9,6 +9,7 @@ bigimg:
   - "/img/south-taihang.jpg" : "South Tai-Hang, China (2016)"
   - "/img/ling.JPG" : "Ling Mountain, Beijing, China (2015)"
   - "/img/bubble.jpg" : "泡泡 (2020)"
+  - "/img/costarica.JPG" : "San Jose, Costa Rica (2018)"
 ---
 ## News
 - I graduated from Peking University and joined Baidu.
