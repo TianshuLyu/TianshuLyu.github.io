@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hi, I'm Tianshu!
+title: Greetings from Tianshu!
 subtitle: Researcher @ Baidu Search Team
 use-site-title: true
 bigimg:
