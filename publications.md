@@ -15,11 +15,11 @@ This is a collection of some research projects I've worked on.
 ## Network Embedding
 
 <img src="../img/conference-paper.png" height="20px">
-*PAKDD'20* Node Conductance: A Scalable Node Centrality Measure Based on Deepwalk. [[pdf]](resources/NC.pdf) [[slide]](resources/NC_slide.pdf)
+*PAKDD'20* Node Conductance: A Scalable Node Centrality Measure Based on Deepwalk. [[pdf]](resources/NC.pdf) [[slide]](resources/NC_slide.pdf)  
 **Tianshu Lyu**, Fei Sun, Yan Zhang
 
 <img src="../img/conference-paper.png" height="20px">
-*RecSys'19* Compositional Network Embedding for Link Prediction. [[pdf]](resources/CNE.pdf) 
+*RecSys'19* Compositional Network Embedding for Link Prediction. [[pdf]](resources/CNE.pdf)  
 **Tianshu Lyu**, Fei Sun, Peng Jiang, Wenwu Ou, Yan Zhang
 
 <img src="../img/conference-paper.png" height="20px">
@@ -27,7 +27,7 @@ This is a collection of some research projects I've worked on.
 Yuan Zhang, **Tianshu Lyu**, Yan Zhang
 
 <img src="../img/conference-paper.png" height="20px">
-*CIKM'17* Enhancing the Network Embedding Quality with Structural Similarity. [[pdf]]((resources/SNS.pdf) [[slide]](resources/SNS_slide.key)
+*CIKM'17* Enhancing the Network Embedding Quality with Structural Similarity. [[pdf]](resources/SNS.pdf) [[slide]](resources/SNS_slide.key)  
 **Tianshu Lyu**, Yuan Zhang, Yan Zhang
 
 

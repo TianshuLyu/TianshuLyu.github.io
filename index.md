@@ -12,7 +12,7 @@ bigimg:
 ---
 ## News
 - I graduated from Peking University and joined Baidu.
-- I got a cat  :smiley_cat:  called "Bubble".
+- I got a cat called *Bubble*.
 - My paper entitled "FOX: Fast Overlapping Community Detection Algorithm in Big Weighted Networks" was accepted by Transactions on Social Computing.
 - My paper entitled "Node Conductance: A Scalable Node Centrality Measure Based on Deepwalk" was accepted by PAKDD 2020.
 
