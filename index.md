@@ -12,16 +12,16 @@ bigimg:
   - "/img/costarica.JPG" : "San Jose, Costa Rica (2018)"
 ---
 ## News
-<i class="fas fa-graduation-cap fa-lg fa-pull-left"></i>
+<i class="fas fa-paw"></i>
 I graduated from *Peking University* and joined *Baidu*.
 
 <p class="about-text">
 <span class="fa fa-graduation-cap about-icon"></span>
- I graduated from Peking University and joined <strong>Baidu</strong>.
 </p>
+I graduated from Peking University and joined *Baidu*.
 
 <p class="about-text">
-<span class="fa fa-heart about-icon"></span>
+<span class="fa fa-paw about-icon"></span>
  I got a cat called <strong>Bubble</strong>.
 </p>
 
