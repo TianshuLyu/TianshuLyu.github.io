@@ -12,7 +12,7 @@ subtitle: Researcher @ Baidu Inc.
 
 I received the B.E. degree in 2015 at the Department of Computer Science and Engineering in Beijing University of Technology.
 
-In the spring of 2018, I was a research intern in feeds recommendation team at Alibaba Group, mentored by [Dr. Fei Sun](http://ofey.me/).  
+In the spring of 2018, I was a research intern in [feeds recommendation team](https://alirec.github.io/team/) at Alibaba Group, mentored by [Dr. Fei Sun](http://ofey.me/).  
 In the winter of 2018, I was a research intern in recommendation team at Hulu LLC, mentored by Dr. Jiarui Yang and Dr. Songpeng Zu.  
 In the summer of 2019, I was a software intern in GPay team at Google, mentored by Wei Dai and Sheng Hu.
 
