@@ -16,3 +16,7 @@ In the spring of 2018, I was a research intern in [feeds recommendation team](ht
 In the winter of 2018, I was a research intern in recommendation team at Hulu LLC, mentored by Dr. Jiarui Yang and Dr. Songpeng Zu.  
 In the summer of 2019, I was a software intern in GPay team at Google, mentored by Wei Dai and Sheng Hu.
 
+### Professional Service
+
+Program Committee: AAAI, IJCAI
+
